@@ -6,7 +6,7 @@
 <body>
 <ul>
 	<li>1</li>
-	<li><?php echo "nice"; ?></li>
+	<li>GitHubPages не поддерживает PHP, только html, css, js</li>
 	<li>3</li>
 	<li>4</li>
 </ul>
